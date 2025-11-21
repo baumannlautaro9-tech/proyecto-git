@@ -1,5 +1,5 @@
 <?php
-echo "Hola Universo";
+echo "Hola Universo";  // Comentarios PHP
 ?>
 <!DOCTYPE html>
 <html lang="en">
